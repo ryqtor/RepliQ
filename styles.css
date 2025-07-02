@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  padding: 10px;
+  background: #f7f7f7;
+  width: 250px;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  margin: 5px 0;
+  padding: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 6px;
+  background-color: #2b8a3e;
+  color: white;
+  border: none;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  background: #fff;
+  padding: 5px;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
